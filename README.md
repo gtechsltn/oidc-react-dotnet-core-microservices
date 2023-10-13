@@ -30,6 +30,7 @@ You can find the detailed blog https://dsrawool.com/2022/07/22/oidc-in-reactjs-r
 + CSS
 + HTML
 + JavaScript
++ Shell
 + PowerShell
 
 # Duende Software
