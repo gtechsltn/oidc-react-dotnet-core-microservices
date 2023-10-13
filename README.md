@@ -1,4 +1,4 @@
-# oidc-react-dotnet-core-microservices
+# OIDC React .NET Core Microservices
 
 OIDC Implementation in .NET Core React/ReactTS App and IdentityServer in a microservice architecture.
 
