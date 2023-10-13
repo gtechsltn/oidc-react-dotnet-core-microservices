@@ -8,7 +8,8 @@ You can find the detailed blog https://dsrawool.com/2022/07/22/oidc-in-reactjs-r
 
 # Features
 + **.AddCookie**
-  + Cookie.SameSite = SameSiteMode.Strict
+  + Cookie.SameSite = SameSiteMode.Strict (Good)
+  + Cookie.SameSite = SameSiteMode.None (Bad)
 + **.AddOpenIdConnect**
 
 # Samples
