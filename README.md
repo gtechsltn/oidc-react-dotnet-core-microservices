@@ -8,7 +8,7 @@ You can find the detailed blog https://dsrawool.com/2022/07/22/oidc-in-reactjs-r
 
 # Features
 + **.AddCookie**
-+ Cookie.SameSite = SameSiteMode.Strict
+  + Cookie.SameSite = SameSiteMode.Strict
 + **.AddOpenIdConnect**
 
 # Samples
@@ -36,10 +36,10 @@ You can find the detailed blog https://dsrawool.com/2022/07/22/oidc-in-reactjs-r
 The most flexible & standards-compliant OpenID Connect and OAuth 2.0 framework for ASP.NET Core.
 + https://github.com/duendesoftware
 
-## IdentityServer
-The most flexible & standards-compliant OpenID Connect and OAuth 2.0 framework for ASP.NET Core.
-+ https://github.com/IdentityServer
-
 ## Duende IdentityServer
 The most flexible & standards-compliant OpenID Connect and OAuth 2.0 framework for ASP.NET Core.
 + https://stackoverflow.com/questions/66818830/difference-between-identity-server-4-and-identity-server-5
+
+## IdentityServer
+The most flexible & standards-compliant OpenID Connect and OAuth 2.0 framework for ASP.NET Core.
++ https://github.com/IdentityServer
